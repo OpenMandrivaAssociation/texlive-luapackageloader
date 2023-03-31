@@ -1,6 +1,6 @@
 Name:		texlive-luapackageloader
 Version:	54779
-Release:	1
+Release:	2
 Summary:	Allow LuaTeX to load external Lua packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luapackageloader
