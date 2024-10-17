@@ -3,7 +3,7 @@ Version:	54779
 Release:	2
 Summary:	Allow LuaTeX to load external Lua packages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luapackageloader
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luapackageloader
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luapackageloader.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luapackageloader.doc.r%{version}.tar.xz
